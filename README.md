@@ -1,5 +1,5 @@
 # alurinha
-Esse repositório foi iniciado o intuito de acompanhar aulas de instrutor da alura | Deploy: https://claudiomatheuuss.github.io/alurinha/
+Esse repositório foi iniciado o intuito de acompanhar aulas de instrutor da alura | Deploy: https://claud10matheus.github.io/alurinha/
 
 Este projeto foi realizado com base em um html pronto, onde a proposta foi utilizar o FlexBox 
 para posicionar elementos de uma pagina HTML, de forma simples.
